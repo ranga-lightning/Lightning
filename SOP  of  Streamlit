@@ -2,15 +2,20 @@
 
 step1 : install the streamlit
         pip install streamlit
+
 step2 : After installation of streamlit we have to create a virtual environlmenment to run the streamlit in python
         python -m venv myenv
+
 step3 : after creating virtual environment open the path where lightning sensor is put up & activate another virtual environment, 
         the lightning code is uploaded inside lightning floder
         source /home/lightning/venv/bin/activate
+
 step4 : open the Documents inside virtual environment platform
         cd Documents
+
 step5 : read alln files inside documents
         ls
+
 step6 : run the code
         steamlit run python_lightning_sonsor.py
 
