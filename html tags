@@ -1,0 +1,181 @@
+HTML TAGS CHEAT SHEET
+
+◆ Basic Structure
+
+<!DOCTYPE html>
+
+<html>
+
+Root element
+
+<head>
+
+Metadata
+
+<title>
+
+Page title
+
+<body>
+
+Page content
+
+◆ Text Formatting
+
+<h1 to <h6>
+
+Headings
+
+<p>
+
+Paragraph
+
+<b>/<strong>
+
+Bold text
+
+<i> / <em>
+
+Italic text
+
+<u>
+
+Underline
+
+<br>
+
+Line break
+
+◆ Links & Media
+
+<hr>
+
+Horizontal line
+
+<a>
+
+Hyperlink
+
+<small>
+
+Small text
+
+<img>
+
+Image
+
+<mark>
+
+Highlight text
+
+<video>
+
+Video
+
+◆ Lists
+
+<audio>
+
+Audio
+
+<ul>
+
+Unordered list
+
+<iframe>
+
+Embed content
+
+<ol>
+
+Ordered list
+
+◆ Tables
+
+<li>
+
+List item
+
+<table>
+
+Table
+
+<dl>
+
+Definition list
+
+<tr>
+
+Table row
+
+<dt>
+
+Definition tarm
+
+<td>
+
+Table cell
+
+<dd>
+
+Definition detail
+
+<th>
+
+Table header
+
+◆ Semantic Tags
+
+◆ Forms
+
+<header>
+
+Page header
+
+<form>
+
+Form
+
+<nav>
+
+Navigation
+
+<main>
+
+Main curcent
+
+<input>
+
+Input field
+
+<section>
+
+Section
+
+<textarea>
+
+Multi-fine text
+
+<article>
+
+Articie
+
+n> Button
+
+<aside>
+
+Sidebar
+
+<select>
+
+Dropdown
+
+<footer>
+
+Footer
+
+Moster HTM
+
+In Minutes
+
+Followed by shakthi_lucky_
